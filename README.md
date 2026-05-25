@@ -2,7 +2,7 @@
  Hi 👋, I'm Sahi sakina
 **A passionate Data anayst || bussiness analyst ||  from India**
 
-Email Me 👉 ✉️ ** sakinasahi0@gmail.com ** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ ** sakinasahi0@gmail.com ** For Collaboration/Project or Anything Else.
 
 - 🔭 **I’m currently working on:**  Netflix Data Analysis Using SQL
 - 🌱 **I’m currently learning:** PYTHON
