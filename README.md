@@ -4,14 +4,10 @@
 
 Email Me 👉 ✉️ ** sakinasahi0@gmail.com ** For Collaboration/Project or Anything Else.
 
-- 🔭 **I’m currently working on:**  Netflix Data Analysis Using SQL
+-  **I’m currently working on:**   Data Analysis Using SQL
 - 🌱 **I’m currently learning:** PYTHON
-- 👯 **I’m looking to collaborate on:** EXCEL
-- 🤔 **I’m looking for help with:** EXCEL HABIT TRACKT 
-- 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sakinasahi0@gmail.com
 - 😄 **Pronouns:** sahi sakina
-- ⚡ **Fun fact:** Tech is not just a skill for me, it’s a mindset.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sahi Sakina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakinasahi0@gmail.com) 
